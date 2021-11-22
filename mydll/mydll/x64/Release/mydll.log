@@ -1,0 +1,8 @@
+﻿  pch.cpp
+  dllmain.cpp
+     Creating library C:\Users\user\Desktop\EDRBypassStudies\mydll\x64\Release\mydll.lib and object C:\Users\user\Desktop\EDRBypassStudies\mydll\x64\Release\mydll.exp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 1 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  mydll.vcxproj -> C:\Users\user\Desktop\EDRBypassStudies\mydll\x64\Release\mydll.dll

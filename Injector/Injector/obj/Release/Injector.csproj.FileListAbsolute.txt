@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\EDRBypassStudies\Injector\Injector\bin\Release\Injector.exe.config
+C:\Users\user\Desktop\EDRBypassStudies\Injector\Injector\bin\Release\Injector.exe
+C:\Users\user\Desktop\EDRBypassStudies\Injector\Injector\bin\Release\Injector.pdb
+C:\Users\user\Desktop\EDRBypassStudies\Injector\Injector\obj\Release\Injector.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\EDRBypassStudies\Injector\Injector\obj\Release\Injector.exe
+C:\Users\user\Desktop\EDRBypassStudies\Injector\Injector\obj\Release\Injector.pdb
+C:\Users\user\Desktop\EDRBypassStudies\Injector\Injector\obj\Release\Injector.csproj.AssemblyReference.cache
