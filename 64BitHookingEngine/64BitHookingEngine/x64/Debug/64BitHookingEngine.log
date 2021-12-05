@@ -1,0 +1,7 @@
+﻿  hook.cpp
+C:\Users\user\Documents\GitHub\EDRBypassStudy\64BitHookingEngine\64BitHookingEngine\hook.cpp(155,12): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+C:\Users\user\Documents\GitHub\EDRBypassStudy\64BitHookingEngine\64BitHookingEngine\hook.cpp(155,12): message : consider using '%zd' in the format string
+C:\Users\user\Documents\GitHub\EDRBypassStudy\64BitHookingEngine\64BitHookingEngine\hook.cpp(169,20): warning C4244: 'initializing': conversion from 'DWORD' to 'UINT8', possible loss of data
+C:\Users\user\Documents\GitHub\EDRBypassStudy\64BitHookingEngine\64BitHookingEngine\hook.cpp(152,33): warning C4101: 'originalProtection': unreferenced local variable
+C:\Users\user\Documents\GitHub\EDRBypassStudy\64BitHookingEngine\64BitHookingEngine\hook.cpp(198,12): warning C4477: 'printf' : format string '%llx' requires an argument of type 'unsigned __int64', but variadic argument 1 has type 'LPVOID'
+  64BitHookingEngine.vcxproj -> C:\Users\user\Documents\GitHub\EDRBypassStudy\64BitHookingEngine\x64\Debug\64BitHookingEngine.exe
